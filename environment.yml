@@ -1,0 +1,11 @@
+name: kaggle-pgnov21
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - python=3.9.7
+  - numpy
+  - pandas
+  - scikit-learn
+  - lightgbm
+  - conda-forge::optuna
